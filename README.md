@@ -31,7 +31,7 @@ The project is intended for **learning and understanding Logistic Regression dee
 - Matplotlib
 - Seaborn
 - Scikit-Learn
-- 
+
 ## 📊 Dataset
 - Synthetic datasets generated using 'sklearn.datasets.make_classification'
 - Used for:
